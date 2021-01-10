@@ -3,6 +3,7 @@
 > 基于vite + vue3.0 + TypeScript实现一款租房webapp,内附文字讲解。
 >
 > @ author:  王野未 WangYewei
+>
 > @ motto： 求知若渴，虚心若愚
 
 ### 一、 文字教程
