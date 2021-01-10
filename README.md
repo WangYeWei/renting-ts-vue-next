@@ -1,6 +1,6 @@
 ## renting-ts-vue-next
 
-> 基于vite + vue3.0 + TypeScript实现一款租房webapp,内附文字讲解。
+> 基于vite + vue3.0 + TypeScript从0到1实现一款租房webapp,内附文字讲解。(持续更新中)
 >
 > @ author:  王野未 WangYewei
 >
