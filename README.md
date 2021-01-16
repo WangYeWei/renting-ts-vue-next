@@ -11,3 +11,4 @@
 #### 1、开发前准备： vue3 相关知识
 
 - [1：composition API](https://github.com/WangYeWei/renting-ts-vue-next/issues/1)
+- [2：Setup函数](https://github.com/WangYeWei/renting-ts-vue-next/issues/2)
